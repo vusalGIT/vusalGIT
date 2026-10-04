@@ -1,16 +1,29 @@
-## Hi there 👋
+VÜSAL İSAYEV
+Cyber Security Specialist | Penetration Tester
 
-<!--
-**vusalGIT/vusalGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌─────────────────────────────────────────────┐
+│  Red Team • Web Pentesting • AD • Research │
+└─────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🔴 Penetration Testing
+🌐 Web & API Security
+🏢 Active Directory
+🧪 Reverse Engineering
+🏆 eWPTX | eCPPT 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECHNICAL SKILLS
+Burp Suite • Nmap • BloodHound • Certipy
+Metasploit • Ghidra • IDA • Wireshark
+Python • C/C++ • Go
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📂 Featured Projects
+→ Web Pentesting
+→ AD / ADCS Labs
+→ Reverse Engineering
+→ Security Tools
+→ Writeups
